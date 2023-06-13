@@ -1,0 +1,25 @@
+
+body{
+    height: 2000px;
+}
+
+.box{
+    height: 70px;
+    width: 80px;
+    background-color: pink;
+    margin-bottom: 100px;
+    text-align: center;
+    font-size: 45px;
+}
+
+.a{
+    background-color: pink;
+}
+
+.b{
+    background-color: skyblue;
+}
+
+.c{
+    background-color: green;
+}
